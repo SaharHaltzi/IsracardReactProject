@@ -8,7 +8,7 @@ See deployment for notes on how to deploy the project on a live system.
 
 Prerequisites:
 
-1.Visual Studio Program in order to start the server side.
+1. Visual Studio Program in order to start the server side.
 
 
 Installing
