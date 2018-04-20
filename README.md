@@ -17,9 +17,8 @@ Installing
 2. in the Command Prompt(CMD) go to the directory which my project is in it
 3. type npm install. 
 3. type npm start. 
-
-4.go to Visual Studio Program. Open the project which is in the Server folder in my Project
-5.run the server. 
+4. go to Visual Studio Program. Open the project which is in the Server folder in my Project
+5. run the server. 
 
 Using the App:
 
