@@ -23,7 +23,7 @@ Installing
 
 Using the App:
 
-1.On the navigation bar search your desired repositories by typing your search keywords and pressing "Search".
+1. On the navigation bar search your desired repositories by typing your search keywords and pressing "Search".
 2. the repositories will be shown on the screen and on side of each repository you will find "Add to Bookmarks" button.
 3. in the navigation bar, go to 'bookmarks' and there you will find all of your bookmarks.
 
